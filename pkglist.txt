@@ -11,7 +11,6 @@ decibels
 efibootmgr
 epiphany
 evince
-firejail
 gdm
 git
 github-cli
@@ -99,7 +98,6 @@ swaync
 tecla
 totem
 ttf-cascadia-code-nerd
-ttf-font-awesome
 waybar
 wget
 wireplumber
