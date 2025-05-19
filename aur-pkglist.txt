@@ -1,0 +1,12 @@
+appimagelauncher-debug
+brave-bin
+catppuccin-gtk-theme-mocha
+chatgpt-desktop-bin
+chatgpt-desktop-bin-debug
+cursor-bin
+hotspotshield-bin
+hotspotshield-bin-debug
+hyprshot
+snapd
+yay-git
+yay-git-debug
