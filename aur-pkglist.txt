@@ -8,3 +8,4 @@ hyprshot
 snapd
 yay-git
 yay-git-debug
+hotspotshield-bin
